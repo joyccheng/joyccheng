@@ -1,12 +1,12 @@
 ## Joy
 
-On an exciting journey transitioning into professional data analysis! <br>
-Here are some projects I've done during the learning process. 
+On an exciting journey into professional data analysis! <br>
+Here are some projects I've completed along the way—feel free to explore!!
 
 #### About me: 
 * Love cats 🐱
 * Currently a digital marketing/ marketing analyst in a SaaS company
-* Currently learning data analysis and machine learning with w/ Scikit-Learn and TensorFlow
+* Currently learning big data analysis and machine learning using Scikit-Learn and TensorFlow
 * Tools: SQL, Python, R, Excel, Tableau, ggplot, matplotlib
 * Hobbies: playing with cats, sketching, growing succulents
 
