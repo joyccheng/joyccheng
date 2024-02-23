@@ -13,7 +13,9 @@ Here are some projects I've completed along the way—feel free to explore!!
 
 <br>
 
-[![Linkedin](https://img.shields.io/badge/-JoyCheng-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joyccheng/)](https://www.linkedin.com/in/joyccheng/)
+##### Connect with me:
+[![Linkedin](https://img.shields.io/badge/-JoyCheng-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joyccheng/)](https://www.linkedin.com/in/joyccheng/)
+[![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white&link=https://public.tableau.com/app/profile/joy.cheng/vizzes)](https://public.tableau.com/app/profile/joy.cheng/vizzes)
 
 <!--
 **joyccheng/joyccheng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
