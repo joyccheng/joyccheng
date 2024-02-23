@@ -3,7 +3,7 @@
 On an exciting journey into professional data analysis! <br>
 Here are some projects I've completed along the way—feel free to explore!!
 
-#### About me: 
+#### About me
 * I love CATS 🐱
 * Currently a digital marketer/ marketing analyst in a SaaS company
 * Currently learning big data analysis and PowerBI
@@ -13,7 +13,7 @@ Here are some projects I've completed along the way—feel free to explore!!
 
 <br>
 
-##### Connect with me:
+##### Connect with me
 [![Linkedin](https://img.shields.io/badge/-JoyCheng-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joyccheng/)](https://www.linkedin.com/in/joyccheng/)
 [![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white&link=https://public.tableau.com/app/profile/joy.cheng/vizzes)](https://public.tableau.com/app/profile/joy.cheng/vizzes)
 
