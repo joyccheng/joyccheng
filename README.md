@@ -4,12 +4,12 @@ On an exciting journey into professional data analytics! <br>
 Here are some projects I've completed along the way—feel free to explore!!
 
 #### About me
-* Love love love CATS 🐱
+* I love CATS 🐱
 * Currently a digital marketer/ marketing analyst in a SaaS company
 * Currently learning big data analysis and PowerBI
 * Plan on learning web scraping with Python and machine learning using Scikit-Learn and TensorFlow
 * Tools: SQL, Python, R, Excel, Tableau, ggplot, matplotlib
-* Hobbies: playing with cats, sketching, growing succulents
+* Hobbies: playing with cats, sketching, growing succulents 🌵
 
 <br>
 
