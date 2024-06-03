@@ -4,6 +4,7 @@ On an exciting journey into professional data analytics! <br>
 Here are some projects I've completed along the way—feel free to explore!!
 
 #### About me
+* INFJ :)
 * I love CATS 🐱
 * Currently a digital marketer/ marketing analyst in a SaaS company
 * Currently learning big data analysis and PowerBI
